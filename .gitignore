@@ -1,0 +1,46 @@
+# ----------------------------
+# Python & Virtual Environment
+# ----------------------------
+venv/
+.env/
+
+# ----------------------------
+# Streamlit Cache & Config
+# ----------------------------
+.streamlit/
+.streamlit/secrets.toml
+
+# ----------------------------
+# Python Cache
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------
+# Data Files
+# ----------------------------
+*.zip
+*.csv
+*.tsv
+*.json
+
+# ----------------------------
+# Jupyter Notebooks
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# IDE and Editor Files
+# ----------------------------
+.vscode/
+.idea/
+
+# ----------------------------
+# OS-generated Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
